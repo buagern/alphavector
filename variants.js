@@ -405,10 +405,17 @@ window.VARIANTS = {
         },
         {
           id: "48b",
-          name: "AV Diamond v2 ✦",
-          description: "Diamond split in half — top = A (cyan gradient, crossbar cutout visible), bottom = V (navy gradient). White divider line makes both letters instantly readable. Clearer A and V within the gem.",
+          name: "AV Diamond v2",
+          description: "Diamond split in half — top = A, bottom = V. White divider at center.",
           light: "logo-av-diamond-v2.svg",
           dark: "logo-av-diamond-v2-dark.svg"
+        },
+        {
+          id: "48c",
+          name: "AV Diamond v3 ✦",
+          description: "3D faceted gem — divider pulled lower so A is dominant. Each face has different shade creating real depth. Center ridge highlights, edge glints. Crossbar cutout makes A readable, V is the smaller bottom facets.",
+          light: "logo-av-diamond-v3.svg",
+          dark: "logo-av-diamond-v3-dark.svg"
         },
         {
           id: "49",
