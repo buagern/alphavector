@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Möbius strip / infinity loop forming an A silhouette -->
+  <!-- Infinite messaging loop, continuous delivery -->
+  <!-- Two interweaving ribbons that cross to form the A peak -->
+  <path d="M 12 48 C 12 48 16 20 32 12 C 48 20 52 48 52 48" stroke="#1E3A8A" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <path d="M 12 48 C 18 36 24 30 32 30 C 40 30 46 36 52 48" stroke="#0EA5E9" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <!-- Overlap illusion — front strand passes over at crossing points -->
+  <path d="M 24 34 C 26 30 28 26 30 22" stroke="#0EA5E9" stroke-width="7" stroke-linecap="round" fill="none"/>
+  <path d="M 34 22 C 36 26 38 30 40 34" stroke="#1E3A8A" stroke-width="7" stroke-linecap="round" fill="none"/>
+  <!-- Peak dot -->
+  <circle cx="32" cy="12" r="4" fill="#0EA5E9"/>
+</svg>

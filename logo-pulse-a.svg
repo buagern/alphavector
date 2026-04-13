@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: A where the crossbar is a heartbeat/pulse line -->
+  <!-- Living, active system — your SMS gateway is alive and delivering -->
+  <path d="M 32 8 L 10 56 L 18 56 L 24 42 L 40 42 L 46 56 L 54 56 Z" fill="#1E3A8A"/>
+  <!-- Pulse line as crossbar -->
+  <path d="M 18 34 L 24 34 L 27 26 L 30 40 L 34 22 L 37 34 L 40 34 L 46 34" stroke="#0EA5E9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

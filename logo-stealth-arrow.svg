@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Stealth/angular A that IS an arrow pointing up-right -->
+  <!-- Minimal, Vercel-inspired bold triangle with vector direction -->
+  <path d="M 8 54 L 32 8 L 56 54 L 42 54 L 32 34 L 22 54 Z" fill="#0F172A"/>
+  <!-- Small arrow tip accent at the peak -->
+  <path d="M 32 8 L 38 20 L 32 16 L 26 20 Z" fill="#0EA5E9"/>
+</svg>

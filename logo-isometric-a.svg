@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: 3D Isometric A block — depth and dimension -->
+  <!-- Top face (lightest) -->
+  <path d="M 32 6 L 16 16 L 32 26 L 48 16 Z" fill="#38BDF8"/>
+  <!-- Left face -->
+  <path d="M 16 16 L 32 26 L 32 54 L 16 44 Z" fill="#1E3A8A"/>
+  <!-- Right face -->
+  <path d="M 32 26 L 48 16 L 48 44 L 32 54 Z" fill="#0F172A"/>
+  <!-- Negative space A hole — top -->
+  <path d="M 32 18 L 26 22 L 32 26 L 38 22 Z" fill="white" opacity="0.9"/>
+  <!-- Negative space A hole — left -->
+  <path d="M 26 22 L 32 26 L 32 38 L 26 34 Z" fill="white" opacity="0.7"/>
+  <!-- Negative space A hole — right -->
+  <path d="M 32 26 L 38 22 L 38 34 L 32 38 Z" fill="white" opacity="0.5"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Abstract geometric mark — two overlapping angular shapes -->
+  <!-- forming a forward-pointing vector/direction indicator -->
+  <!-- Reads as stylized "AV" monogram at a glance -->
+  <path d="M 10 52 L 28 10 L 36 30 L 18 52 Z" fill="#1E3A8A"/>
+  <path d="M 28 10 L 54 52 L 36 52 L 28 34 Z" fill="#0EA5E9"/>
+</svg>

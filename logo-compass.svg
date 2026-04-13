@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Compass/direction rose with A at center -->
+  <!-- Navigation, direction, vector — finding the right path -->
+  <circle cx="32" cy="32" r="28" stroke="#1E3A8A" stroke-width="2.5" fill="none"/>
+  <circle cx="32" cy="32" r="24" stroke="#1E3A8A" stroke-width="1" fill="none" opacity="0.3"/>
+  <!-- North arrow (forms top of A) -->
+  <path d="M 32 4 L 36 18 L 32 14 L 28 18 Z" fill="#0EA5E9"/>
+  <!-- South pointer -->
+  <path d="M 32 60 L 36 46 L 32 50 L 28 46 Z" fill="#1E3A8A" opacity="0.4"/>
+  <!-- A shape in center -->
+  <path fill-rule="evenodd" d="
+    M 32 14 L 18 50 L 24 50 L 27 42 L 37 42 L 40 50 L 46 50 Z
+    M 29 37 L 32 26 L 35 37 Z
+  " fill="#1E3A8A"/>
+  <!-- East/West ticks -->
+  <path d="M 58 32 L 52 32" stroke="#0EA5E9" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 12 32 L 6 32" stroke="#0EA5E9" stroke-width="2" stroke-linecap="round"/>
+</svg>

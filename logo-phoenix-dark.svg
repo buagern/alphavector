@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="gphd" x1="0.5" y1="1" x2="0.5" y2="0">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="60%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#7DD3FC"/>
+    </linearGradient>
+  </defs>
+  <path d="M 32 8 C 28 14 18 22 6 28 C 14 32 20 38 24 48 Z" fill="url(#gphd)"/>
+  <path d="M 32 8 C 36 14 46 22 58 28 C 50 32 44 38 40 48 Z" fill="url(#gphd)"/>
+  <path d="M 28 40 L 32 8 L 36 40 L 34 56 L 30 56 Z" fill="#60A5FA"/>
+  <path d="M 32 2 L 36 10 L 32 7 L 28 10 Z" fill="#7DD3FC"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Rocket/launchpad A — the A IS a rocket launching -->
+  <!-- First product launch, trajectory, going up -->
+  <defs>
+    <linearGradient id="glp" x1="0.5" y1="1" x2="0.5" y2="0">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+  <!-- Rocket body (A shape) -->
+  <path d="M 32 4 L 22 44 L 26 44 L 28 36 L 36 36 L 38 44 L 42 44 Z" fill="url(#glp)"/>
+  <!-- Nose cone highlight -->
+  <path d="M 32 4 L 34 16 L 30 16 Z" fill="#38BDF8" opacity="0.6"/>
+  <!-- Left fin -->
+  <path d="M 22 44 L 16 56 L 26 48 Z" fill="#1E3A8A"/>
+  <!-- Right fin -->
+  <path d="M 42 44 L 48 56 L 38 48 Z" fill="#1E3A8A"/>
+  <!-- Exhaust flame -->
+  <path d="M 28 48 L 32 60 L 36 48 Z" fill="#F59E0B" opacity="0.8"/>
+  <path d="M 30 48 L 32 56 L 34 48 Z" fill="#FBBF24"/>
+  <!-- Launch pad line -->
+  <line x1="14" y1="56" x2="50" y2="56" stroke="#1E3A8A" stroke-width="2" stroke-linecap="round" opacity="0.3"/>
+</svg>

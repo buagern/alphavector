@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Ultra-minimal Vercel-style mark -->
+  <!-- Single bold A shape, the negative space triangle inside IS the arrow -->
+  <!-- Stark black, no color — pure geometric confidence -->
+  <path fill-rule="evenodd" d="
+    M 32 6 L 2 58 L 62 58 Z
+    M 32 26 L 22 48 L 42 48 Z
+  " fill="#0F172A"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Split A — left half navy, right half cyan -->
+  <!-- The split represents data routing/splitting in SMS gateway -->
+  <!-- Gap between halves creates a lightning bolt / energy line -->
+  <path d="M 30 8 L 6 56 L 14 56 L 24 34 L 28 42 L 22 56 L 30 56 L 34 46 Z" fill="#1E3A8A"/>
+  <path d="M 34 8 L 30 18 L 40 42 L 36 34 L 50 56 L 58 56 L 38 14 Z" fill="#0EA5E9"/>
+</svg>

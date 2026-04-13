@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Origami-folded A — paper craft meets tech -->
+  <!-- Multiple facets create depth, each face a different shade -->
+  <!-- Like a folded paper airplane that IS the letter A -->
+  <!-- Left outer face -->
+  <path d="M 32 6 L 8 54 L 24 54 Z" fill="#1E3A8A"/>
+  <!-- Right outer face -->
+  <path d="M 32 6 L 56 54 L 40 54 Z" fill="#0C4A6E"/>
+  <!-- Left inner fold -->
+  <path d="M 32 6 L 24 54 L 32 38 Z" fill="#2563EB"/>
+  <!-- Right inner fold -->
+  <path d="M 32 6 L 40 54 L 32 38 Z" fill="#0EA5E9"/>
+  <!-- Center diamond highlight — the fold crease catches light -->
+  <path d="M 32 6 L 36 24 L 32 38 L 28 24 Z" fill="#38BDF8" opacity="0.5"/>
+</svg>
