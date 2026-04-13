@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <g stroke="#3B82F6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M 8 52 L 14 48 M 12 46 L 14 48 L 12 50" opacity="0.3"/>
+    <path d="M 20 52 L 26 46 M 24 44 L 26 46 L 24 48" opacity="0.4"/>
+    <path d="M 32 52 L 38 46 M 36 44 L 38 46 L 36 48" opacity="0.5"/>
+    <path d="M 44 52 L 50 46 M 48 44 L 50 46 L 48 48" opacity="0.6"/>
+    <path d="M 8 40 L 14 34 M 12 32 L 14 34 L 12 36" opacity="0.4"/>
+    <path d="M 20 40 L 26 34 M 24 32 L 26 34 L 24 36" opacity="0.5"/>
+    <path d="M 32 40 L 40 32 M 38 30 L 40 32 L 38 34" opacity="0.7"/>
+    <path d="M 44 40 L 52 32 M 50 30 L 52 32 L 50 34" opacity="0.8"/>
+    <path d="M 8 28 L 16 20 M 14 18 L 16 20 L 14 22" opacity="0.5"/>
+    <path d="M 20 28 L 28 20 M 26 18 L 28 20 L 26 22" opacity="0.7"/>
+    <path d="M 32 28 L 42 18 M 40 16 L 42 18 L 40 20" opacity="0.8"/>
+    <path d="M 44 28 L 54 18 M 52 16 L 54 18 L 52 20" opacity="0.9"/>
+    <path d="M 8 16 L 18 8 M 16 6 L 18 8 L 16 10" opacity="0.6" stroke="#38BDF8"/>
+    <path d="M 20 16 L 30 8 M 28 6 L 30 8 L 28 10" opacity="0.8" stroke="#38BDF8"/>
+    <path d="M 32 16 L 44 6 M 42 4 L 44 6 L 42 8" stroke="#38BDF8"/>
+    <path d="M 44 16 L 56 6 M 54 4 L 56 6 L 54 8" stroke="#38BDF8"/>
+  </g>
+</svg>

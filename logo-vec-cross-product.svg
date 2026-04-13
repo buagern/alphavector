@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Cross product of two vectors — 3 arrows in 3D -->
+  <!-- Two input vectors produce a result vector — transformation -->
+  <!-- X axis vector -->
+  <line x1="32" y1="40" x2="56" y2="50" stroke="#1E3A8A" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M 53 47 L 58 51 L 52 52" stroke="#1E3A8A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Y axis vector -->
+  <line x1="32" y1="40" x2="8" y2="50" stroke="#1E3A8A" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M 11 47 L 6 51 L 12 52" stroke="#1E3A8A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Result vector (pointing UP — the cross product) -->
+  <line x1="32" y1="40" x2="32" y2="8" stroke="#0EA5E9" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 27 12 L 32 4 L 37 12" stroke="#0EA5E9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Origin -->
+  <circle cx="32" cy="40" r="4" fill="#0F172A"/>
+  <circle cx="32" cy="40" r="2" fill="#0EA5E9"/>
+  <!-- × symbol -->
+  <path d="M 18 32 L 22 28 M 18 28 L 22 32" stroke="#64748B" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

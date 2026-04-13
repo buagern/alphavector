@@ -439,6 +439,67 @@ window.VARIANTS = {
           dark: "logo-vector-shield-dark.svg"
         }
       ]
+    },
+    {
+      name: "Vector Concept ✦ NEW",
+      variants: [
+        {
+          id: "53",
+          name: "V̄ Math Notation",
+          description: "Bold V with arrow line on top — the mathematical vector notation (V̄). Smart, academic, geeky-cool. Instantly says 'vector'.",
+          light: "logo-vec-arrow-math.svg",
+          dark: "logo-vec-arrow-math-dark.svg"
+        },
+        {
+          id: "54",
+          name: "Bezier V",
+          description: "V-shaped bezier curve with anchor points (squares) and control handles (circles). Vector graphics tool reference — the craft of digital design.",
+          light: "logo-vec-bezier.svg",
+          dark: "logo-vec-bezier-dark.svg"
+        },
+        {
+          id: "55",
+          name: "XY Coordinate Vector",
+          description: "Vector arrow on XY grid from origin to top-right. Mathematical precision — data has direction and magnitude. Clean, scientific.",
+          light: "logo-vec-coordinate.svg",
+          dark: "logo-vec-coordinate-dark.svg"
+        },
+        {
+          id: "56",
+          name: "Trajectory Arc",
+          description: "Curving upward trajectory with arrow and trailing dots. Growth, launch, aimed at the sky. The path of a message being delivered.",
+          light: "logo-vec-trajectory.svg",
+          dark: "logo-vec-trajectory-dark.svg"
+        },
+        {
+          id: "57",
+          name: "Pen Tool V",
+          description: "V path with square anchor points and pen tool cursor. The vector design tool itself — meta, creative, technical.",
+          light: "logo-vec-pen-tool.svg",
+          dark: "logo-vec-pen-tool-dark.svg"
+        },
+        {
+          id: "58",
+          name: "Multi-Vector Fan",
+          description: "Multiple arrows radiating from one origin point. One source, many destinations — SMS gateway routing to carriers. Fan of vectors.",
+          light: "logo-vec-multi-arrow.svg",
+          dark: "logo-vec-multi-arrow-dark.svg"
+        },
+        {
+          id: "59",
+          name: "Cross Product",
+          description: "Three vectors in 3D space — two inputs produce one result pointing up. Mathematical transformation, depth, sophistication.",
+          light: "logo-vec-cross-product.svg",
+          dark: "logo-vec-cross-product-dark.svg"
+        },
+        {
+          id: "60",
+          name: "Vector Field",
+          description: "Grid of small arrows flowing in unified direction with gradient opacity. Like a force field — organized, directional, powerful. Mesmerizing pattern.",
+          light: "logo-vec-field.svg",
+          dark: "logo-vec-field-dark.svg"
+        }
+      ]
     }
   ]
 };

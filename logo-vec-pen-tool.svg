@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Pen tool cursor drawing a V shape -->
+  <!-- Vector graphics tool — the creative tool itself -->
+  <!-- V path being drawn -->
+  <path d="M 10 14 L 32 50 L 54 14" stroke="#1E3A8A" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Anchor points on the V -->
+  <rect x="7" y="11" width="6" height="6" rx="1" fill="#0EA5E9"/>
+  <rect x="29" y="47" width="6" height="6" rx="1" fill="#0EA5E9"/>
+  <rect x="51" y="11" width="6" height="6" rx="1" fill="#0EA5E9"/>
+  <!-- Pen tool cursor at the last point -->
+  <path d="M 54 8 L 58 2 L 60 4 L 56 10 Z" fill="#0F172A"/>
+  <path d="M 58 2 L 60 4" stroke="white" stroke-width="0.5"/>
+  <!-- Small + sign next to cursor -->
+  <line x1="61" y1="6" x2="61" y2="10" stroke="#0EA5E9" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="59" y1="8" x2="63" y2="8" stroke="#0EA5E9" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

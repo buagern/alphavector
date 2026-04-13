@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Bezier curve with anchor points forming a V shape -->
+  <!-- Vector graphics reference — the craft of digital design -->
+  <!-- Main bezier V curve -->
+  <path d="M 8 12 C 8 40 24 54 32 54 C 40 54 56 40 56 12" stroke="#1E3A8A" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Control point handles (dashed lines) -->
+  <line x1="8" y1="12" x2="8" y2="40" stroke="#0EA5E9" stroke-width="1" stroke-dasharray="3 2" opacity="0.5"/>
+  <line x1="56" y1="12" x2="56" y2="40" stroke="#0EA5E9" stroke-width="1" stroke-dasharray="3 2" opacity="0.5"/>
+  <line x1="32" y1="54" x2="24" y2="54" stroke="#0EA5E9" stroke-width="1" stroke-dasharray="3 2" opacity="0.5"/>
+  <line x1="32" y1="54" x2="40" y2="54" stroke="#0EA5E9" stroke-width="1" stroke-dasharray="3 2" opacity="0.5"/>
+  <!-- Anchor points (squares) -->
+  <rect x="5" y="9" width="6" height="6" rx="1" fill="#0EA5E9"/>
+  <rect x="53" y="9" width="6" height="6" rx="1" fill="#0EA5E9"/>
+  <rect x="29" y="51" width="6" height="6" rx="1" fill="#0EA5E9"/>
+  <!-- Control points (circles) -->
+  <circle cx="8" cy="40" r="2.5" fill="white" stroke="#0EA5E9" stroke-width="1.5"/>
+  <circle cx="56" cy="40" r="2.5" fill="white" stroke="#0EA5E9" stroke-width="1.5"/>
+  <circle cx="24" cy="54" r="2.5" fill="white" stroke="#0EA5E9" stroke-width="1.5"/>
+  <circle cx="40" cy="54" r="2.5" fill="white" stroke="#0EA5E9" stroke-width="1.5"/>
+</svg>

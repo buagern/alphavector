@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Multiple vectors radiating from one origin -->
+  <!-- One source, many destinations — SMS gateway routing to multiple carriers -->
+  <defs>
+    <linearGradient id="gvma" x1="0.5" y1="1" x2="0.5" y2="0">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+  <!-- Origin point -->
+  <circle cx="12" cy="52" r="5" fill="#1E3A8A"/>
+  <!-- Vector arrows spreading out -->
+  <line x1="12" y1="52" x2="52" y2="10" stroke="url(#gvma)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 48 8 L 54 8 L 52 14" stroke="#0EA5E9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+  <line x1="12" y1="52" x2="56" y2="30" stroke="#0EA5E9" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M 54 27 L 58 29 L 55 33" stroke="#0EA5E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.7"/>
+
+  <line x1="12" y1="52" x2="48" y2="48" stroke="#0EA5E9" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+  <path d="M 46 45 L 50 47 L 47 51" stroke="#0EA5E9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.4"/>
+
+  <line x1="12" y1="52" x2="32" y2="8" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+  <path d="M 30 6 L 33 6 L 32 10" stroke="#38BDF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.5"/>
+</svg>
