@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: A and V interlocking like puzzle pieces -->
+  <!-- A sits inside V — nested, connected, inseparable -->
+  <!-- Outer V -->
+  <path d="M 2 8 L 32 60 L 62 8 L 50 8 L 32 46 L 14 8 Z" fill="#1E3A8A"/>
+  <!-- Inner A sitting on top of V -->
+  <path fill-rule="evenodd" d="
+    M 32 8 L 18 40 L 24 40 L 27 32 L 37 32 L 40 40 L 46 40 Z
+    M 29 28 L 32 18 L 35 28 Z
+  " fill="#0EA5E9"/>
+</svg>

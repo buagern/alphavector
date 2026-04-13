@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: A on top, V below — mirror reflection -->
+  <!-- A points up (ambition), V reflects below (foundation) -->
+  <!-- Together they form a diamond/hourglass shape -->
+  <defs>
+    <linearGradient id="gavm" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+  <!-- A (top) -->
+  <path d="M 32 4 L 12 30 L 52 30 Z" fill="#0EA5E9"/>
+  <!-- V (bottom, mirrored) -->
+  <path d="M 12 34 L 52 34 L 32 60 Z" fill="#1E3A8A"/>
+  <!-- Center gap creates a thin horizontal line between them -->
+</svg>

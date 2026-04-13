@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: A and V overlapping — shared middle stroke -->
+  <!-- The two letters share the center creating a diamond shape -->
+  <path d="M 4 56 L 24 8 L 32 28" fill="#1E3A8A"/>
+  <path d="M 32 28 L 40 8 L 60 56" fill="#0EA5E9"/>
+  <!-- Shared center overlap creates darker blend -->
+  <path d="M 24 8 L 32 28 L 40 8 L 32 4 Z" fill="#0C4A6E"/>
+</svg>

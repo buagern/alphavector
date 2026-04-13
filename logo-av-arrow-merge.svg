@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: A merges into V with an arrow at the junction -->
+  <!-- Data flows from A through arrow into V — routing metaphor -->
+  <!-- A (left side) -->
+  <path d="M 6 56 L 22 10 L 30 30" fill="#1E3A8A"/>
+  <!-- Arrow at merge point -->
+  <path d="M 26 32 L 32 22 L 38 32" fill="#0EA5E9"/>
+  <!-- V (right side) -->
+  <path d="M 34 30 L 42 10 L 58 56" fill="#1E3A8A"/>
+  <!-- Horizontal arrow through the middle -->
+  <path d="M 14 38 L 50 38" stroke="#0EA5E9" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 46 34 L 52 38 L 46 42" stroke="#0EA5E9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

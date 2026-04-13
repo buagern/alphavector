@@ -278,7 +278,7 @@ window.VARIANTS = {
       ]
     },
     {
-      name: "α Alpha Symbol ✦ NEW",
+      name: "α Alpha Symbol",
       variants: [
         {
           id: "33",
@@ -348,6 +348,95 @@ window.VARIANTS = {
           description: "Greek α as continuous flowing stroke ending in arrow. Data flowing through a channel. (From Distinctive Symbols)",
           light: "logo-alpha-flow.svg",
           dark: "logo-alpha-flow-dark.svg"
+        }
+      ]
+    },
+    {
+      name: "AV Monogram ✦ NEW",
+      variants: [
+        {
+          id: "42",
+          name: "AV Overlap",
+          description: "A and V overlapping at the center — shared middle creates a diamond intersection. Two-tone navy + cyan, bold and iconic.",
+          light: "logo-av-overlap.svg",
+          dark: "logo-av-overlap-dark.svg"
+        },
+        {
+          id: "43",
+          name: "AV Negative Space",
+          description: "AV cut out of a solid gradient square. The letters are absence, the background is presence. Bold, architectural.",
+          light: "logo-av-negative.svg",
+          dark: "logo-av-negative-dark.svg"
+        },
+        {
+          id: "44",
+          name: "AV Mirror",
+          description: "A (triangle up) and V (triangle down) stacked with a thin gap. Together they form a diamond/hourglass. Pure geometry.",
+          light: "logo-av-mirror.svg",
+          dark: "logo-av-mirror-dark.svg"
+        },
+        {
+          id: "45",
+          name: "AV Interlock",
+          description: "A nested inside V — the A sits within the V's opening. Inseparable, connected, one contains the other.",
+          light: "logo-av-interlock.svg",
+          dark: "logo-av-interlock-dark.svg"
+        },
+        {
+          id: "46",
+          name: "A/V Slash",
+          description: "A and V separated by a diagonal cyan slash. The slash IS the vector — direction cutting through the letterforms.",
+          light: "logo-av-slash.svg",
+          dark: "logo-av-slash-dark.svg"
+        },
+        {
+          id: "47",
+          name: "AV Continuous Line",
+          description: "AV drawn as one continuous zigzag line — never lifting the pen. Gradient flows from navy (A) to cyan (V). Elegant ligature.",
+          light: "logo-av-continuous.svg",
+          dark: "logo-av-continuous-dark.svg"
+        },
+        {
+          id: "48",
+          name: "AV Diamond",
+          description: "A + V merged into a gem/diamond shape with faceted faces. A points up, V points down. Precious, premium, unique.",
+          light: "logo-av-diamond.svg",
+          dark: "logo-av-diamond-dark.svg"
+        },
+        {
+          id: "49",
+          name: "AV Stacked Blocks",
+          description: "Bold A block on top, V block below. Brutalist/modernist — heavy geometric typography. Two-tone blue.",
+          light: "logo-av-stacked.svg",
+          dark: "logo-av-stacked-dark.svg"
+        },
+        {
+          id: "50",
+          name: "AV Rounded",
+          description: "Soft rounded AV strokes — friendly, modern SaaS style. Purple-to-cyan gradient. Approachable, not sharp.",
+          light: "logo-av-rounded.svg",
+          dark: "logo-av-rounded-dark.svg"
+        },
+        {
+          id: "51",
+          name: "AV Circle Badge",
+          description: "AV ligature in white strokes on gradient circle. Premium badge, avatar-ready. The shared middle stroke is the key.",
+          light: "logo-av-circle-badge.svg",
+          dark: "logo-av-circle-badge-dark.svg"
+        },
+        {
+          id: "52",
+          name: "AV Arrow Merge",
+          description: "A merges into V with a horizontal arrow flowing through. Data routes from A→V — the routing metaphor made literal.",
+          light: "logo-av-arrow-merge.svg",
+          dark: "logo-av-arrow-merge-dark.svg"
+        },
+        {
+          id: "05",
+          name: "AV Angular (original)",
+          description: "Two overlapping angular shapes forming AV. Navy + cyan planes. (From Abstract Geometric, round 1)",
+          light: "logo-vector-shield.svg",
+          dark: "logo-vector-shield-dark.svg"
         }
       ]
     }
