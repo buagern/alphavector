@@ -398,10 +398,58 @@ window.VARIANTS = {
         },
         {
           id: "48",
-          name: "AV Diamond",
-          description: "A + V merged into a gem/diamond shape with faceted faces. A points up, V points down. Precious, premium, unique.",
+          name: "AV Diamond (Cyan)",
+          description: "Original — gradient cyan → navy with subtle facet lines and left highlight.",
           light: "logo-av-diamond.svg",
           dark: "logo-av-diamond-dark.svg"
+        },
+        {
+          id: "48-p",
+          name: "AV Diamond (Purple) ✦",
+          description: "Original style — amethyst purple gradient. Elegant, creative.",
+          light: "logo-av-diamond-o-purple.svg",
+          dark: "logo-av-diamond-o-purple-dark.svg"
+        },
+        {
+          id: "48-e",
+          name: "AV Diamond (Emerald) ✦",
+          description: "Original style — emerald green gradient. Growth, fresh.",
+          light: "logo-av-diamond-o-emerald.svg",
+          dark: "logo-av-diamond-o-emerald-dark.svg"
+        },
+        {
+          id: "48-s",
+          name: "AV Diamond (Sunset) ✦",
+          description: "Original style — sunset orange gradient. Warm, bold.",
+          light: "logo-av-diamond-o-sunset.svg",
+          dark: "logo-av-diamond-o-sunset-dark.svg"
+        },
+        {
+          id: "48-g",
+          name: "AV Diamond (Gold) ✦",
+          description: "Original style — gold/amber gradient. Luxury, premium.",
+          light: "logo-av-diamond-o-gold.svg",
+          dark: "logo-av-diamond-o-gold-dark.svg"
+        },
+        {
+          id: "48-r",
+          name: "AV Diamond (Rose) ✦",
+          description: "Original style — rose pink gradient. Modern, distinctive.",
+          light: "logo-av-diamond-o-rose.svg",
+          dark: "logo-av-diamond-o-rose-dark.svg"
+        },
+        {
+          id: "48-m",
+          name: "AV Diamond (Mono) ✦",
+          description: "Original style — monochrome slate → black. Timeless, minimal.",
+          light: "logo-av-diamond-o-mono.svg"
+        },
+        {
+          id: "48-rb",
+          name: "AV Diamond (Ruby) ✦",
+          description: "Original style — ruby red gradient. Bold, powerful.",
+          light: "logo-av-diamond-o-ruby.svg",
+          dark: "logo-av-diamond-o-ruby-dark.svg"
         },
         {
           id: "48b",
