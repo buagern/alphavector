@@ -404,6 +404,13 @@ window.VARIANTS = {
           dark: "logo-av-diamond-dark.svg"
         },
         {
+          id: "48b",
+          name: "AV Diamond v2 ✦",
+          description: "Diamond split in half — top = A (cyan gradient, crossbar cutout visible), bottom = V (navy gradient). White divider line makes both letters instantly readable. Clearer A and V within the gem.",
+          light: "logo-av-diamond-v2.svg",
+          dark: "logo-av-diamond-v2-dark.svg"
+        },
+        {
           id: "49",
           name: "AV Stacked Blocks",
           description: "Bold A block on top, V block below. Brutalist/modernist — heavy geometric typography. Two-tone blue.",
