@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- AV Diamond v4 — thicker white facet lines, clearly separated faces -->
+
+  <!-- Top-left facet -->
+  <path d="M 32 2 L 6 28 L 32 20 Z" fill="#0EA5E9"/>
+  <!-- Top-right facet (catches light) -->
+  <path d="M 32 2 L 58 28 L 32 20 Z" fill="#38BDF8"/>
+  <!-- Bottom-left facet -->
+  <path d="M 6 28 L 32 20 L 32 62 Z" fill="#1E3A8A"/>
+  <!-- Bottom-right facet -->
+  <path d="M 58 28 L 32 20 L 32 62 Z" fill="#0C4A6E"/>
+
+  <!-- Thick white facet lines separating each face -->
+  <!-- Horizontal crown line -->
+  <path d="M 6 28 L 32 20 L 58 28" stroke="white" stroke-width="2.5" stroke-linejoin="round" fill="none"/>
+  <!-- Top ridge -->
+  <line x1="32" y1="2" x2="32" y2="20" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Bottom ridge -->
+  <line x1="32" y1="20" x2="32" y2="62" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Outer diamond edges -->
+  <path d="M 32 2 L 58 28 L 32 62 L 6 28 Z" stroke="white" stroke-width="2" stroke-linejoin="round" fill="none"/>
+</svg>

@@ -412,10 +412,17 @@ window.VARIANTS = {
         },
         {
           id: "48c",
-          name: "AV Diamond v3 ✦",
-          description: "3D faceted gem — divider pulled lower so A is dominant. Each face has different shade creating real depth. Center ridge highlights, edge glints. Crossbar cutout makes A readable, V is the smaller bottom facets.",
+          name: "AV Diamond v3",
+          description: "3D faceted gem — divider pulled lower so A is dominant. Each face has different shade creating real depth.",
           light: "logo-av-diamond-v3.svg",
           dark: "logo-av-diamond-v3-dark.svg"
+        },
+        {
+          id: "48d",
+          name: "AV Diamond v4 ✦",
+          description: "4 facets each with distinct color (cyan, light cyan, navy, dark navy). Thick white lines separate every face clearly — like a real cut gem. Outer edge, crown line, and center ridges all bold white.",
+          light: "logo-av-diamond-v4.svg",
+          dark: "logo-av-diamond-v4-dark.svg"
         },
         {
           id: "49",
