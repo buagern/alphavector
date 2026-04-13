@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Bold solid α symbol — thick geometric interpretation -->
+  <!-- Clean, confident, instantly recognizable as alpha -->
+  <defs>
+    <linearGradient id="gab" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+  <!-- α as a bold filled shape -->
+  <!-- Outer loop of α -->
+  <path d="M 48 52 C 44 58 38 60 32 60 C 18 60 8 48 8 32 C 8 16 18 4 32 4 C 42 4 50 10 54 20 L 54 4 L 62 4 L 62 60 L 54 60 L 54 44 C 50 52 42 60 32 60" fill="none" stroke="url(#gab)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

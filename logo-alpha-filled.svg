@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Solid filled α with clean counter (hole) -->
+  <!-- Geometric, heavy, modern — like a rubber stamp -->
+  <defs>
+    <linearGradient id="gaf2" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+  <path fill-rule="evenodd" d="
+    M 32 2 C 16 2 4 15 4 32 C 4 49 16 62 32 62 C 40 62 47 58 52 52 L 52 62 L 62 62 L 62 2 L 52 2 L 52 12 C 47 6 40 2 32 2 Z
+    M 32 14 C 22 14 16 22 16 32 C 16 42 22 50 32 50 C 42 50 48 42 48 32 C 48 22 42 14 32 14 Z
+  " fill="url(#gaf2)"/>
+</svg>

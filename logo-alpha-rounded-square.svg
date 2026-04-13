@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: α inside rounded square — app icon style -->
+  <!-- Dark background, glowing α -->
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#0F172A"/>
+  <!-- Glowing α stroke -->
+  <path fill-rule="evenodd" d="
+    M 28 14 C 18 14 12 22 12 32 C 12 42 18 50 28 50 C 33 50 37 48 40 44 L 40 50 L 48 50 L 48 14 L 40 14 L 40 20 C 37 16 33 14 28 14 Z
+    M 28 22 C 22 22 18 26 18 32 C 18 38 22 42 28 42 C 34 42 38 38 38 32 C 38 26 34 22 28 22 Z
+  " fill="#0EA5E9"/>
+</svg>

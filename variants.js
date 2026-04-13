@@ -276,6 +276,80 @@ window.VARIANTS = {
           dark: "logo-rainbow-prism-dark.svg"
         }
       ]
+    },
+    {
+      name: "α Alpha Symbol ✦ NEW",
+      variants: [
+        {
+          id: "33",
+          name: "α Bold Stroke",
+          description: "Bold stroked α symbol with gradient. Thick confident line, instantly recognizable as the Greek alpha letter.",
+          light: "logo-alpha-bold.svg",
+          dark: "logo-alpha-bold-dark.svg"
+        },
+        {
+          id: "34",
+          name: "α Solid Fill",
+          description: "Solid filled α with clean circular counter (hole). Heavy, modern, like a rubber stamp. Gradient blue.",
+          light: "logo-alpha-filled.svg",
+          dark: "logo-alpha-filled-dark.svg"
+        },
+        {
+          id: "35",
+          name: "α → Arrow Tail",
+          description: "α with its right stem bending into a horizontal arrow. Alpha + Vector literally combined — the symbol tells the brand name.",
+          light: "logo-alpha-arrow-tail.svg",
+          dark: "logo-alpha-arrow-tail-dark.svg"
+        },
+        {
+          id: "36",
+          name: "α Circle Badge",
+          description: "White α on gradient circle. Clean app-icon, avatar-ready. Works at every size from favicon to billboard.",
+          light: "logo-alpha-circle.svg",
+          dark: "logo-alpha-circle-dark.svg"
+        },
+        {
+          id: "37",
+          name: "α Minimal Line",
+          description: "Ultra-thin single continuous stroke α. One-line elegance, like writing with a single pen stroke. Pure black.",
+          light: "logo-alpha-minimal-line.svg"
+        },
+        {
+          id: "38",
+          name: "α App Icon",
+          description: "Cyan α on dark rounded square. Ready-to-use as mobile app icon. Glowing on dark — modern SaaS style.",
+          light: "logo-alpha-rounded-square.svg",
+          dark: "logo-alpha-rounded-square-dark.svg"
+        },
+        {
+          id: "39",
+          name: "α Bauhaus Geometric",
+          description: "α deconstructed into pure shapes — perfect circle + rectangle + dot. Bauhaus constructivist style, mathematical beauty.",
+          light: "logo-alpha-geometric.svg",
+          dark: "logo-alpha-geometric-dark.svg"
+        },
+        {
+          id: "40",
+          name: "α Orbit",
+          description: "Solid α with orbital rings and satellite dots. Data orbiting the core — satellite communications, SMS routing across networks.",
+          light: "logo-alpha-orbit.svg",
+          dark: "logo-alpha-orbit-dark.svg"
+        },
+        {
+          id: "41",
+          name: "α 3D Extruded",
+          description: "3D extruded α with shadow depth and highlight edge. Pops off the page — bold, dimensional, premium feel.",
+          light: "logo-alpha-3d.svg",
+          dark: "logo-alpha-3d-dark.svg"
+        },
+        {
+          id: "14",
+          name: "α Flow (→ arrow)",
+          description: "Greek α as continuous flowing stroke ending in arrow. Data flowing through a channel. (From Distinctive Symbols)",
+          light: "logo-alpha-flow.svg",
+          dark: "logo-alpha-flow-dark.svg"
+        }
+      ]
     }
   ]
 };
