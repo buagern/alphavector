@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- AV Diamond — Sunset Orange/Red -->
+  <path d="M 32 2 L 6 28 L 32 20 Z" fill="#F97316"/>
+  <path d="M 32 2 L 58 28 L 32 20 Z" fill="#FB923C"/>
+  <path d="M 6 28 L 32 20 L 32 62 Z" fill="#C2410C"/>
+  <path d="M 58 28 L 32 20 L 32 62 Z" fill="#9A3412"/>
+  <path d="M 6 28 L 32 20 L 58 28" stroke="white" stroke-width="2.5" stroke-linejoin="round" fill="none"/>
+  <line x1="32" y1="2" x2="32" y2="20" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="32" y1="20" x2="32" y2="62" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 32 2 L 58 28 L 32 62 L 6 28 Z" stroke="white" stroke-width="2" stroke-linejoin="round" fill="none"/>
+</svg>

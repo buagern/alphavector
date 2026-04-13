@@ -419,10 +419,58 @@ window.VARIANTS = {
         },
         {
           id: "48d",
-          name: "AV Diamond v4 ✦",
-          description: "4 facets each with distinct color (cyan, light cyan, navy, dark navy). Thick white lines separate every face clearly — like a real cut gem. Outer edge, crown line, and center ridges all bold white.",
+          name: "AV Diamond v4 (Cyan)",
+          description: "4 facets with thick white lines. Cyan/navy palette — the original.",
           light: "logo-av-diamond-v4.svg",
           dark: "logo-av-diamond-v4-dark.svg"
+        },
+        {
+          id: "48e",
+          name: "Diamond Purple ✦",
+          description: "Amethyst purple — elegant, creative, stands out from typical tech blue.",
+          light: "logo-av-diamond-purple.svg",
+          dark: "logo-av-diamond-purple-dark.svg"
+        },
+        {
+          id: "48f",
+          name: "Diamond Emerald ✦",
+          description: "Emerald green — growth, nature, fresh energy. Premium gemstone feel.",
+          light: "logo-av-diamond-emerald.svg",
+          dark: "logo-av-diamond-emerald-dark.svg"
+        },
+        {
+          id: "48g",
+          name: "Diamond Sunset ✦",
+          description: "Sunset orange — warm, energetic, bold. Different from typical tech palettes.",
+          light: "logo-av-diamond-sunset.svg",
+          dark: "logo-av-diamond-sunset-dark.svg"
+        },
+        {
+          id: "48h",
+          name: "Diamond Gold ✦",
+          description: "Gold/amber — luxury, premium, treasure. Like a real gold gemstone.",
+          light: "logo-av-diamond-gold.svg",
+          dark: "logo-av-diamond-gold-dark.svg"
+        },
+        {
+          id: "48i",
+          name: "Diamond Rose ✦",
+          description: "Rose pink — modern, fresh, distinctive. Stands out in tech space.",
+          light: "logo-av-diamond-rose.svg",
+          dark: "logo-av-diamond-rose-dark.svg"
+        },
+        {
+          id: "48j",
+          name: "Diamond Mono ✦",
+          description: "Monochrome slate/black — Vercel-style minimal. Works everywhere, timeless.",
+          light: "logo-av-diamond-mono.svg"
+        },
+        {
+          id: "48k",
+          name: "Diamond Ruby ✦",
+          description: "Ruby red — passion, power, bold statement. Eye-catching crimson gem.",
+          light: "logo-av-diamond-red.svg",
+          dark: "logo-av-diamond-red-dark.svg"
         },
         {
           id: "49",
