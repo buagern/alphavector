@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Prism/Pink Floyd style — white light enters A, rainbow exits -->
+  <!-- A as a prism that transforms and routes data (like SMS gateway routes messages) -->
+  <!-- The A prism -->
+  <path d="M 32 8 L 14 54 L 50 54 Z" fill="#E2E8F0" stroke="#94A3B8" stroke-width="1"/>
+  <!-- Incoming white beam -->
+  <line x1="2" y1="34" x2="22" y2="34" stroke="#94A3B8" stroke-width="2"/>
+  <!-- Rainbow beams exiting right side -->
+  <line x1="42" y1="28" x2="62" y2="18" stroke="#EF4444" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="43" y1="31" x2="62" y2="26" stroke="#F97316" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="44" y1="34" x2="62" y2="34" stroke="#EAB308" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="43" y1="37" x2="62" y2="42" stroke="#22C55E" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="42" y1="40" x2="62" y2="50" stroke="#3B82F6" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="41" y1="43" x2="60" y2="56" stroke="#8B5CF6" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

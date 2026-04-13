@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Neon sign style — glowing outlines, cyberpunk vibe -->
+  <!-- Night city, electric, edgy — totally different mood -->
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="64" height="64" fill="#0A0A0A" rx="8"/>
+  <!-- Outer glow A -->
+  <path d="M 32 10 L 12 54 L 20 54 L 25 42 L 39 42 L 44 54 L 52 54 Z M 27 36 L 32 22 L 37 36 Z" stroke="#F0ABFC" stroke-width="2" fill="none" filter="url(#glow)" opacity="0.6"/>
+  <!-- Sharp neon A -->
+  <path d="M 32 10 L 12 54 L 20 54 L 25 42 L 39 42 L 44 54 L 52 54 Z M 27 36 L 32 22 L 37 36 Z" stroke="#E879F9" stroke-width="1.5" fill="none"/>
+  <!-- Arrow accent in different neon color -->
+  <path d="M 46 16 L 52 10 M 48 10 L 52 10 L 52 14" stroke="#22D3EE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+</svg>

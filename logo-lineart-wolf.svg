@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Concept: Geometric wolf/fox head forming an A -->
+  <!-- Sharp, angular, predatory — alpha of the pack -->
+  <!-- Low-poly animal mascot style -->
+  <!-- Ears form the top of A -->
+  <path d="M 22 6 L 18 24 L 32 18 Z" fill="#334155"/>
+  <path d="M 42 6 L 46 24 L 32 18 Z" fill="#475569"/>
+  <!-- Face — forms body of A -->
+  <path d="M 18 24 L 32 18 L 46 24 L 40 44 L 32 50 L 24 44 Z" fill="#1E293B"/>
+  <!-- Snout -->
+  <path d="M 26 36 L 32 50 L 38 36 Z" fill="#334155"/>
+  <!-- Eyes -->
+  <circle cx="26" cy="30" r="2" fill="#F59E0B"/>
+  <circle cx="38" cy="30" r="2" fill="#F59E0B"/>
+  <!-- Jaw lines extending = legs of A -->
+  <path d="M 24 44 L 10 58" stroke="#1E293B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 40 44 L 54 58" stroke="#1E293B" stroke-width="4" stroke-linecap="round"/>
+</svg>

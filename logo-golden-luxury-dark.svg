@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="ggoldd" x1="0" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#FDE68A"/>
+      <stop offset="30%" stop-color="#FBBF24"/>
+      <stop offset="60%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#B45309"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" fill="#1E293B" rx="6"/>
+  <path fill-rule="evenodd" d="
+    M 32 10 L 12 54 L 20 54 L 26 40 L 38 40 L 44 54 L 52 54 Z
+    M 28 35 L 32 22 L 36 35 Z
+  " fill="url(#ggoldd)"/>
+  <line x1="16" y1="58" x2="48" y2="58" stroke="#FBBF24" stroke-width="0.75" opacity="0.5"/>
+</svg>
