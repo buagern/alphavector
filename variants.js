@@ -617,6 +617,95 @@ window.VARIANTS = {
           dark: "logo-vec-field-dark.svg"
         }
       ]
+    },
+    {
+      name: "🎨 Unlimited Wild ✦ NEW",
+      variants: [
+        {
+          id: "W1",
+          name: "Liquid Mercury",
+          description: "Liquid mercury drop forming A with metallic highlight. Organic, fluid, futuristic tech.",
+          light: "logo-wild-liquid.svg"
+        },
+        {
+          id: "W2",
+          name: "Glitch Chromatic",
+          description: "Digital glitch art with chromatic aberration (red/cyan offset). Cyberpunk, edgy, tech-rebellion aesthetic.",
+          light: "logo-wild-glitch.svg"
+        },
+        {
+          id: "W3",
+          name: "Sound Wave",
+          description: "Audio/voice message bars rising to form a V peak. SMS = messages flowing like sound waves. Dynamic, modern.",
+          light: "logo-wild-soundwave.svg"
+        },
+        {
+          id: "W4",
+          name: "Infinity ∞ A·V",
+          description: "Infinity symbol with A and V embedded in each loop. Gradient purple → pink → orange. Endless messaging.",
+          light: "logo-wild-infinity.svg"
+        },
+        {
+          id: "W5",
+          name: "Blueprint",
+          description: "Technical blueprint drawing — diamond construction over grid paper. Engineering, precision, developer credibility.",
+          light: "logo-wild-blueprint.svg"
+        },
+        {
+          id: "W6",
+          name: "Mandala A",
+          description: "Sacred geometry with 6-fold rotational A pattern. Purple-pink gradient. Meditative, spiritual tech.",
+          light: "logo-wild-mandala.svg"
+        },
+        {
+          id: "W7",
+          name: "Constellation",
+          description: "A-shaped constellation of stars connected by lines on deep night sky. Glowing main star. Guides messages like celestial navigation.",
+          light: "logo-wild-constellation.svg"
+        },
+        {
+          id: "W8",
+          name: "Microchip",
+          description: "CPU/microchip with pins and A engraved on the die. Hardware-level reliability, embedded system vibe.",
+          light: "logo-wild-chip.svg"
+        },
+        {
+          id: "W9",
+          name: "Topographic A",
+          description: "Contour lines forming a mountain peak / stylized A. Map aesthetic, exploration, layers.",
+          light: "logo-wild-topo.svg"
+        },
+        {
+          id: "W10",
+          name: "Aperture Iris",
+          description: "Camera aperture blades opening to reveal A in center. Focus, precision, capturing moments.",
+          light: "logo-wild-aperture.svg"
+        },
+        {
+          id: "W11",
+          name: "Galaxy Core",
+          description: "Spiral galaxy with glowing core and tiny A hidden in center. Cosmic scale, ambition reaching stars.",
+          light: "logo-wild-galaxy.svg"
+        },
+        {
+          id: "W12",
+          name: "Folded Ribbon",
+          description: "3D folded ribbon twisting to form AV shape. Origami-meets-award-ribbon. Premium, crafted.",
+          light: "logo-wild-ribbon.svg"
+        },
+        {
+          id: "W13",
+          name: "Lighthouse Beacon",
+          description: "Lighthouse A casting yellow beams across the water. Guidance, signal, reliable beacon for messages.",
+          light: "logo-wild-lighthouse.svg"
+        },
+        {
+          id: "W14",
+          name: "Alpha Crown",
+          description: "Gold crown with 3 A-shaped peaks and gems (ruby + cyan). Alpha = leader of the pack, royalty.",
+          light: "logo-wild-crown.svg"
+        }
+      ]
     }
   ]
 };

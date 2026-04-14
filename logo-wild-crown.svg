@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Alpha = leader, crown emblem -->
+  <defs>
+    <linearGradient id="gcrown" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FBBF24"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+  </defs>
+  <!-- Crown peaks (forms 3 A-shapes) -->
+  <path d="M 8 50 L 8 30 L 18 42 L 24 18 L 32 40 L 40 18 L 46 42 L 56 30 L 56 50 Z" fill="url(#gcrown)" stroke="#92400E" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Base band -->
+  <rect x="6" y="50" width="52" height="6" fill="#92400E"/>
+  <!-- Gems -->
+  <circle cx="18" cy="42" r="2" fill="#EF4444"/>
+  <circle cx="32" cy="40" r="2.5" fill="#0EA5E9"/>
+  <circle cx="46" cy="42" r="2" fill="#EF4444"/>
+  <!-- Shine highlight -->
+  <path d="M 10 32 L 12 32 L 14 38 L 12 38 Z" fill="white" opacity="0.5"/>
+</svg>

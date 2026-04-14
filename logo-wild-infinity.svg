@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Infinity symbol with A on left, V on right -->
+  <defs>
+    <linearGradient id="ginf" x1="0" y1="0.5" x2="1" y2="0.5">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+  <path d="M 32 32 C 26 22 14 22 10 32 C 14 42 26 42 32 32 C 38 22 50 22 54 32 C 50 42 38 42 32 32 Z" stroke="url(#ginf)" stroke-width="5" fill="none" stroke-linejoin="round"/>
+  <!-- A in left loop -->
+  <path d="M 16 38 L 21 26 L 26 38 M 18 33 L 24 33" stroke="url(#ginf)" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- V in right loop -->
+  <path d="M 38 26 L 43 38 L 48 26" stroke="url(#ginf)" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>
