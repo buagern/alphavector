@@ -782,7 +782,8 @@ window.VARIANTS = {
           id: "F8",
           name: "Gradient Mesh Aurora",
           description: "Smooth radial gradient blobs (purple, cyan, pink) blending. White A cutout. Linear/Vercel hero style.",
-          light: "logo-futur-gradient-mesh.svg"
+          light: "logo-futur-gradient-mesh.svg",
+          dark: "logo-futur-gradient-mesh-dark.svg"
         },
         {
           id: "F9",
