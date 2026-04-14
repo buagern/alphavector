@@ -638,7 +638,8 @@ window.VARIANTS = {
           id: "W2",
           name: "Glitch Chromatic",
           description: "Digital glitch art with chromatic aberration (red/cyan offset). Cyberpunk, edgy, tech-rebellion aesthetic.",
-          light: "logo-wild-glitch.svg"
+          light: "logo-wild-glitch.svg",
+          dark: "logo-wild-glitch-dark.svg"
         },
         {
           id: "W3",
@@ -658,7 +659,8 @@ window.VARIANTS = {
           id: "W5",
           name: "Blueprint",
           description: "Technical blueprint drawing — diamond construction over grid paper. Engineering, precision, developer credibility.",
-          light: "logo-wild-blueprint.svg"
+          light: "logo-wild-blueprint.svg",
+          dark: "logo-wild-blueprint-dark.svg"
         },
         {
           id: "W6",
@@ -671,7 +673,8 @@ window.VARIANTS = {
           id: "W7",
           name: "Constellation",
           description: "A-shaped constellation of stars connected by lines on deep night sky. Glowing main star. Guides messages like celestial navigation.",
-          light: "logo-wild-constellation.svg"
+          light: "logo-wild-constellation.svg",
+          dark: "logo-wild-constellation-dark.svg"
         },
         {
           id: "W8",
@@ -691,13 +694,15 @@ window.VARIANTS = {
           id: "W10",
           name: "Aperture Iris",
           description: "Camera aperture blades opening to reveal A in center. Focus, precision, capturing moments.",
-          light: "logo-wild-aperture.svg"
+          light: "logo-wild-aperture.svg",
+          dark: "logo-wild-aperture-dark.svg"
         },
         {
           id: "W11",
           name: "Galaxy Core",
           description: "Spiral galaxy with glowing core and tiny A hidden in center. Cosmic scale, ambition reaching stars.",
-          light: "logo-wild-galaxy.svg"
+          light: "logo-wild-galaxy.svg",
+          dark: "logo-wild-galaxy-dark.svg"
         },
         {
           id: "W12",
