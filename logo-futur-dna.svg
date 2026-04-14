@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- DNA double helix forming A -->
+  <defs>
+    <linearGradient id="gdna1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <linearGradient id="gdna2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <!-- Left helix strand -->
+  <path d="M 16 8 C 24 16 24 24 16 32 C 8 40 8 48 16 56" stroke="url(#gdna1)" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Right helix strand -->
+  <path d="M 48 8 C 40 16 40 24 48 32 C 56 40 56 48 48 56" stroke="url(#gdna2)" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Base pair rungs (crossbars) -->
+  <line x1="16" y1="12" x2="48" y2="12" stroke="#38BDF8" stroke-width="1.5"/>
+  <line x1="20" y1="20" x2="44" y2="20" stroke="#F472B6" stroke-width="1.5"/>
+  <line x1="18" y1="28" x2="46" y2="28" stroke="#38BDF8" stroke-width="1.5"/>
+  <line x1="20" y1="36" x2="44" y2="36" stroke="#F472B6" stroke-width="1.5"/>
+  <line x1="18" y1="44" x2="46" y2="44" stroke="#38BDF8" stroke-width="1.5"/>
+  <line x1="16" y1="52" x2="48" y2="52" stroke="#F472B6" stroke-width="1.5"/>
+</svg>

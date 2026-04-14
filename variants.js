@@ -727,6 +727,71 @@ window.VARIANTS = {
           dark: "logo-wild-crown-dark.svg"
         }
       ]
+    },
+    {
+      name: "🚀 Futuristic ✦ NEW",
+      variants: [
+        {
+          id: "F1",
+          name: "Holographic A",
+          description: "Iridescent rainbow-shift gradient A — holographic card / foil effect. Ultra-modern cyber-future.",
+          light: "logo-futur-holo.svg",
+          dark: "logo-futur-holo-dark.svg"
+        },
+        {
+          id: "F2",
+          name: "Neural Network",
+          description: "Nodes + synapses wired to form an A. Input/hidden/output layers. AI/ML aesthetic.",
+          light: "logo-futur-neural.svg",
+          dark: "logo-futur-neural-dark.svg"
+        },
+        {
+          id: "F3",
+          name: "Wireframe 3D",
+          description: "Low-poly wireframe A with vertex dots and depth edges. CAD/3D modeling aesthetic.",
+          light: "logo-futur-wireframe.svg",
+          dark: "logo-futur-wireframe-dark.svg"
+        },
+        {
+          id: "F4",
+          name: "Matrix Code",
+          description: "Green A emerging from binary 0s and 1s. Matrix/hacker aesthetic. Cursor blinks at peak.",
+          light: "logo-futur-matrix.svg",
+          dark: "logo-futur-matrix-dark.svg"
+        },
+        {
+          id: "F5",
+          name: "AR HUD Targeting",
+          description: "AR heads-up display — corner brackets, crosshair, dashed ring around A. Sci-fi interface.",
+          light: "logo-futur-hud.svg",
+          dark: "logo-futur-hud-dark.svg"
+        },
+        {
+          id: "F6",
+          name: "DNA Double Helix",
+          description: "Two DNA strands (cyan + pink) twisting with base-pair rungs. Biotech, data as DNA.",
+          light: "logo-futur-dna.svg"
+        },
+        {
+          id: "F7",
+          name: "Quantum Orbits",
+          description: "Atom with 3 electron orbits, nucleus = A. Quantum computing aesthetic.",
+          light: "logo-futur-quantum.svg"
+        },
+        {
+          id: "F8",
+          name: "Gradient Mesh Aurora",
+          description: "Smooth radial gradient blobs (purple, cyan, pink) blending. White A cutout. Linear/Vercel hero style.",
+          light: "logo-futur-gradient-mesh.svg"
+        },
+        {
+          id: "F9",
+          name: "Crystalline Voronoi",
+          description: "A built from faceted crystal/voronoi cells. Geological, computational geometry.",
+          light: "logo-futur-voronoi.svg",
+          dark: "logo-futur-voronoi-dark.svg"
+        }
+      ]
     }
   ]
 };

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="gholod" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#C4B5FD"/>
+      <stop offset="25%" stop-color="#FBCFE8"/>
+      <stop offset="50%" stop-color="#FED7AA"/>
+      <stop offset="75%" stop-color="#6EE7B7"/>
+      <stop offset="100%" stop-color="#7DD3FC"/>
+    </linearGradient>
+  </defs>
+  <path fill-rule="evenodd" d="
+    M 32 4 L 4 58 L 14 58 L 20 44 L 44 44 L 50 58 L 60 58 Z
+    M 26 38 L 32 22 L 38 38 Z
+  " fill="url(#gholod)"/>
+  <path d="M 32 4 L 12 42 L 20 44 L 28 22 Z" fill="white" opacity="0.3"/>
+</svg>

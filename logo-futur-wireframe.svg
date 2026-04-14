@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Low-poly wireframe A — 3D outline only -->
+  <g stroke="#0EA5E9" stroke-width="1.5" fill="none" stroke-linejoin="round">
+    <!-- Outer A outline -->
+    <path d="M 32 6 L 8 56 L 16 56 L 22 44 L 42 44 L 48 56 L 56 56 L 32 6 Z"/>
+    <!-- Inner A hole -->
+    <path d="M 27 38 L 32 24 L 37 38 Z"/>
+    <!-- Depth edges (3D back) -->
+    <path d="M 32 6 L 36 8 L 12 58 L 8 56" opacity="0.5"/>
+    <path d="M 56 56 L 60 58 L 52 58 L 48 56" opacity="0.5"/>
+    <path d="M 16 56 L 20 58 L 12 58" opacity="0.5"/>
+    <!-- Triangulation lines for A faces -->
+    <line x1="22" y1="44" x2="32" y2="6" opacity="0.4"/>
+    <line x1="42" y1="44" x2="32" y2="6" opacity="0.4"/>
+    <line x1="22" y1="44" x2="27" y2="38" opacity="0.4"/>
+    <line x1="42" y1="44" x2="37" y2="38" opacity="0.4"/>
+  </g>
+  <!-- Vertex dots -->
+  <g fill="#38BDF8">
+    <circle cx="32" cy="6" r="1.5"/>
+    <circle cx="8" cy="56" r="1.5"/>
+    <circle cx="56" cy="56" r="1.5"/>
+    <circle cx="27" cy="38" r="1"/>
+    <circle cx="37" cy="38" r="1"/>
+    <circle cx="32" cy="24" r="1"/>
+  </g>
+</svg>
