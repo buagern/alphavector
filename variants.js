@@ -49,7 +49,8 @@ window.VARIANTS = {
           id: "04",
           name: "Minimal A",
           description: "Ultra-minimal monochrome A with clean triangular cutout. Vercel-style simplicity.",
-          light: "logo-minimal-a.svg"
+          light: "logo-minimal-a.svg",
+          dark: "logo-minimal-a-dark.svg"
         },
         {
           id: "11",
@@ -212,8 +213,9 @@ window.VARIANTS = {
         {
           id: "23",
           name: "Stacked Wordmark",
-          description: "Pure typography, no icon. ALPHA in heavy weight, VECTOR in light weight. Premium like a luxury brand. Black only.",
-          light: "logo-stacked-wordmark.svg"
+          description: "Pure typography, no icon. ALPHA in heavy weight, VECTOR in light weight. Premium like a luxury brand.",
+          light: "logo-stacked-wordmark.svg",
+          dark: "logo-stacked-wordmark-dark.svg"
         },
         {
           id: "24",
@@ -266,7 +268,8 @@ window.VARIANTS = {
           id: "31",
           name: "Pixel Art A",
           description: "8-bit retro pixel A in purple. Gaming nostalgia, playful. Crossbar in lighter purple for contrast.",
-          light: "logo-pixel-a.svg"
+          light: "logo-pixel-a.svg",
+          dark: "logo-pixel-a-dark.svg"
         },
         {
           id: "32",
@@ -311,8 +314,9 @@ window.VARIANTS = {
         {
           id: "37",
           name: "α Minimal Line",
-          description: "Ultra-thin single continuous stroke α. One-line elegance, like writing with a single pen stroke. Pure black.",
-          light: "logo-alpha-minimal-line.svg"
+          description: "Ultra-thin single continuous stroke α. One-line elegance, like writing with a single pen stroke.",
+          light: "logo-alpha-minimal-line.svg",
+          dark: "logo-alpha-minimal-line-dark.svg"
         },
         {
           id: "38",
@@ -442,7 +446,8 @@ window.VARIANTS = {
           id: "48-m",
           name: "AV Diamond (Mono) ✦",
           description: "Original style — monochrome slate → black. Timeless, minimal.",
-          light: "logo-av-diamond-o-mono.svg"
+          light: "logo-av-diamond-o-mono.svg",
+          dark: "logo-av-diamond-o-mono-dark.svg"
         },
         {
           id: "48-rb",
@@ -511,7 +516,8 @@ window.VARIANTS = {
           id: "48j",
           name: "Diamond Mono ✦",
           description: "Monochrome slate/black — Vercel-style minimal. Works everywhere, timeless.",
-          light: "logo-av-diamond-mono.svg"
+          light: "logo-av-diamond-mono.svg",
+          dark: "logo-av-diamond-mono-dark.svg"
         },
         {
           id: "48k",
@@ -625,7 +631,8 @@ window.VARIANTS = {
           id: "W1",
           name: "Liquid Mercury",
           description: "Liquid mercury drop forming A with metallic highlight. Organic, fluid, futuristic tech.",
-          light: "logo-wild-liquid.svg"
+          light: "logo-wild-liquid.svg",
+          dark: "logo-wild-liquid-dark.svg"
         },
         {
           id: "W2",
@@ -637,13 +644,15 @@ window.VARIANTS = {
           id: "W3",
           name: "Sound Wave",
           description: "Audio/voice message bars rising to form a V peak. SMS = messages flowing like sound waves. Dynamic, modern.",
-          light: "logo-wild-soundwave.svg"
+          light: "logo-wild-soundwave.svg",
+          dark: "logo-wild-soundwave-dark.svg"
         },
         {
           id: "W4",
           name: "Infinity ∞ A·V",
           description: "Infinity symbol with A and V embedded in each loop. Gradient purple → pink → orange. Endless messaging.",
-          light: "logo-wild-infinity.svg"
+          light: "logo-wild-infinity.svg",
+          dark: "logo-wild-infinity-dark.svg"
         },
         {
           id: "W5",
@@ -655,7 +664,8 @@ window.VARIANTS = {
           id: "W6",
           name: "Mandala A",
           description: "Sacred geometry with 6-fold rotational A pattern. Purple-pink gradient. Meditative, spiritual tech.",
-          light: "logo-wild-mandala.svg"
+          light: "logo-wild-mandala.svg",
+          dark: "logo-wild-mandala-dark.svg"
         },
         {
           id: "W7",
@@ -667,13 +677,15 @@ window.VARIANTS = {
           id: "W8",
           name: "Microchip",
           description: "CPU/microchip with pins and A engraved on the die. Hardware-level reliability, embedded system vibe.",
-          light: "logo-wild-chip.svg"
+          light: "logo-wild-chip.svg",
+          dark: "logo-wild-chip-dark.svg"
         },
         {
           id: "W9",
           name: "Topographic A",
           description: "Contour lines forming a mountain peak / stylized A. Map aesthetic, exploration, layers.",
-          light: "logo-wild-topo.svg"
+          light: "logo-wild-topo.svg",
+          dark: "logo-wild-topo-dark.svg"
         },
         {
           id: "W10",
@@ -691,19 +703,22 @@ window.VARIANTS = {
           id: "W12",
           name: "Folded Ribbon",
           description: "3D folded ribbon twisting to form AV shape. Origami-meets-award-ribbon. Premium, crafted.",
-          light: "logo-wild-ribbon.svg"
+          light: "logo-wild-ribbon.svg",
+          dark: "logo-wild-ribbon-dark.svg"
         },
         {
           id: "W13",
           name: "Lighthouse Beacon",
           description: "Lighthouse A casting yellow beams across the water. Guidance, signal, reliable beacon for messages.",
-          light: "logo-wild-lighthouse.svg"
+          light: "logo-wild-lighthouse.svg",
+          dark: "logo-wild-lighthouse-dark.svg"
         },
         {
           id: "W14",
           name: "Alpha Crown",
           description: "Gold crown with 3 A-shaped peaks and gems (ruby + cyan). Alpha = leader of the pack, royalty.",
-          light: "logo-wild-crown.svg"
+          light: "logo-wild-crown.svg",
+          dark: "logo-wild-crown-dark.svg"
         }
       ]
     }
