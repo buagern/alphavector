@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <filter id="glowd">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- Pink neon outer frame to pop on dark bg -->
+  <rect width="64" height="64" fill="#F0ABFC" rx="8"/>
+  <rect x="2" y="2" width="60" height="60" fill="#1A0F2E" rx="7"/>
+  <!-- Outer glow A -->
+  <path d="M 32 10 L 12 54 L 20 54 L 25 42 L 39 42 L 44 54 L 52 54 Z M 27 36 L 32 22 L 37 36 Z" stroke="#F0ABFC" stroke-width="2" fill="none" filter="url(#glowd)" opacity="0.8"/>
+  <!-- Sharp neon A -->
+  <path d="M 32 10 L 12 54 L 20 54 L 25 42 L 39 42 L 44 54 L 52 54 Z M 27 36 L 32 22 L 37 36 Z" stroke="#FAE8FF" stroke-width="1.5" fill="none"/>
+  <!-- Cyan arrow accent -->
+  <path d="M 46 16 L 52 10 M 48 10 L 52 10 L 52 14" stroke="#67E8F9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glowd)"/>
+</svg>

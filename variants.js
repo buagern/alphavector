@@ -241,7 +241,8 @@ window.VARIANTS = {
           id: "27",
           name: "Neon Glow",
           description: "Cyberpunk neon sign A with purple glow on dark background. Electric, edgy, night-city vibe. Cyan arrow accent.",
-          light: "logo-neon-glow.svg"
+          light: "logo-neon-glow.svg",
+          dark: "logo-neon-glow-dark.svg"
         },
         {
           id: "28",
