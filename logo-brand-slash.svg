@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Minimal diagonal slash + dot — precision, minimalism, modernist -->
+  <!-- Think Uber, Hermes-minimal aesthetic -->
+  <line x1="14" y1="50" x2="50" y2="14" stroke="#0F172A" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="14" cy="50" r="5" fill="#0EA5E9"/>
+  <circle cx="50" cy="14" r="5" fill="#0F172A"/>
+</svg>

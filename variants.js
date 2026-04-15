@@ -793,6 +793,88 @@ window.VARIANTS = {
           dark: "logo-futur-voronoi-dark.svg"
         }
       ]
+    },
+    {
+      name: "🏢 Brand-Neutral (Product-Agnostic) ✦ NEW",
+      variants: [
+        {
+          id: "B1",
+          name: "Isometric Cube",
+          description: "Abstract 3D cube. Universal tech symbol — platform, infrastructure, building block. Works for any product.",
+          light: "logo-brand-cube.svg",
+          dark: "logo-brand-cube-dark.svg"
+        },
+        {
+          id: "B2",
+          name: "Clean Wordmark",
+          description: "'Alpha·Vector' typographic lockup — Alpha in bold dark, Vector in lighter gray, cyan dot accent. Pure brand, no product hint.",
+          light: "logo-brand-wordmark-clean.svg",
+          dark: "logo-brand-wordmark-clean-dark.svg"
+        },
+        {
+          id: "B3",
+          name: "Split Panels",
+          description: "Two balanced rounded rectangles (navy + cyan) with center bridge. Duality, platform, scalable.",
+          light: "logo-brand-split.svg",
+          dark: "logo-brand-split-dark.svg"
+        },
+        {
+          id: "B4",
+          name: "Stacked Layers",
+          description: "Three horizontal bars in graded blues. Platform layers, product family stack. Framework feel.",
+          light: "logo-brand-layers.svg",
+          dark: "logo-brand-layers-dark.svg"
+        },
+        {
+          id: "B5",
+          name: "Ring + Dot",
+          description: "Outer ring + solid inner dot. Minimal, universal — think Medium/Notion simplicity.",
+          light: "logo-brand-dot.svg",
+          dark: "logo-brand-dot-dark.svg"
+        },
+        {
+          id: "B6",
+          name: "4-Point Spark",
+          description: "Abstract 4-point star/spark. Energy, innovation, creation. No product commitment.",
+          light: "logo-brand-spark.svg",
+          dark: "logo-brand-spark-dark.svg"
+        },
+        {
+          id: "B7",
+          name: "Growth Arc",
+          description: "Upward curve with endpoint dots. Growth, trajectory, open horizon. Neutral forward movement.",
+          light: "logo-brand-arc.svg",
+          dark: "logo-brand-arc-dark.svg"
+        },
+        {
+          id: "B8",
+          name: "Hexagon α",
+          description: "Clean hexagon with alpha glyph inside. Platform/building-block shape, alpha brand anchor.",
+          light: "logo-brand-hex-simple.svg",
+          dark: "logo-brand-hex-simple-dark.svg"
+        },
+        {
+          id: "B9",
+          name: "Diagonal Slash",
+          description: "Minimal diagonal line + two dots. Uber/Hermes modernist precision. Pure and neutral.",
+          light: "logo-brand-slash.svg",
+          dark: "logo-brand-slash-dark.svg"
+        },
+        {
+          id: "B10",
+          name: "Emblem A",
+          description: "Clean gradient rounded-square container with simple A cutout. Classic app-icon / brand emblem.",
+          light: "logo-brand-emblem.svg",
+          dark: "logo-brand-emblem-dark.svg"
+        },
+        {
+          id: "B11",
+          name: "Orbit Rings",
+          description: "Concentric rings with solid core + orbiting dots. Ecosystem, platform with satellite products.",
+          light: "logo-brand-orbit-ring.svg",
+          dark: "logo-brand-orbit-ring-dark.svg"
+        }
+      ]
     }
   ]
 };

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Rounded square with subtle A — classic app-icon/brand container -->
+  <!-- Holds any content: sub-brand, product icon, logo lockup -->
+  <defs>
+    <linearGradient id="gbe" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#gbe)"/>
+  <!-- Clean A cutout -->
+  <path fill-rule="evenodd" d="
+    M 32 16 L 16 48 L 22 48 L 25 42 L 39 42 L 42 48 L 48 48 Z
+    M 28 36 L 32 28 L 36 36 Z
+  " fill="white"/>
+</svg>
