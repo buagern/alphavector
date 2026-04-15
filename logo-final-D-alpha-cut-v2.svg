@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Direction D v2 — clipped version so cut stays inside α -->
+  <defs>
+    <clipPath id="alphaClip">
+      <path fill-rule="evenodd" d="
+        M 30 14 C 19 14 12 22 12 33 C 12 44 19 52 30 52 C 35 52 39 50 42 46 L 42 52 L 52 52 L 52 14 L 42 14 L 42 20 C 39 16 35 14 30 14 Z
+        M 30 22 C 24 22 21 27 21 33 C 21 39 24 44 30 44 C 36 44 39 39 39 33 C 39 27 36 22 30 22 Z
+      "/>
+    </clipPath>
+  </defs>
+  <!-- Base α -->
+  <path fill-rule="evenodd" d="
+    M 30 14 C 19 14 12 22 12 33 C 12 44 19 52 30 52 C 35 52 39 50 42 46 L 42 52 L 52 52 L 52 14 L 42 14 L 42 20 C 39 16 35 14 30 14 Z
+    M 30 22 C 24 22 21 27 21 33 C 21 39 24 44 30 44 C 36 44 39 39 39 33 C 39 27 36 22 30 22 Z
+  " fill="#0B0D12"/>
+  <!-- Cut sliver clipped to α silhouette -->
+  <g clip-path="url(#alphaClip)">
+    <path d="M 14 52 L 50 10 L 53 13 L 17 55 Z" fill="#2D5BFF"/>
+  </g>
+</svg>

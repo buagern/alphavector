@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Direction A — Faceted Alpha -->
+  <!-- Bold A built from two triangular planes meeting at a diagonal facet. -->
+  <!-- The facet IS the crossbar — no separate stroke. Asymmetric tension. -->
+
+  <!-- Left plane (Vector Blue) — lower-left half of the A -->
+  <path d="M 32 6 L 4 58 L 18 58 L 32 30 L 44 36 Z" fill="#2D5BFF"/>
+
+  <!-- Right plane (Obsidian) — upper-right half with the facet edge -->
+  <path d="M 32 6 L 44 36 L 32 30 L 46 58 L 60 58 Z" fill="#0B0D12"/>
+</svg>

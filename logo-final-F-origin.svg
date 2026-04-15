@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Direction F — Origin Point -->
+  <!-- Rhombus outline bounding a dot + 32° vector line. -->
+
+  <!-- Rhombus outline (Obsidian) -->
+  <path d="M 32 6 L 58 32 L 32 58 L 6 32 Z" stroke="#0B0D12" stroke-width="3" stroke-linejoin="round" fill="none"/>
+
+  <!-- Origin dot (Vector Blue) -->
+  <circle cx="22" cy="42" r="4.5" fill="#2D5BFF"/>
+
+  <!-- Vector line (Obsidian) at ~32° -->
+  <line x1="22" y1="42" x2="46" y2="24" stroke="#0B0D12" stroke-width="4" stroke-linecap="square"/>
+</svg>

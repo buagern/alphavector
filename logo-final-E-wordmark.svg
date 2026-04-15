@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 48" fill="none">
+  <!-- Direction E — Wordmark Lock -->
+  <!-- ALPHA VECTOR in General Sans Bold, uppercase, tight tracking (-2%). -->
+  <!-- Only the V of VECTOR is tilted 3.5° right — direction inside typography. -->
+  <g fill="#0B0D12" font-family="'General Sans', 'Inter', sans-serif" font-weight="700" font-size="28" letter-spacing="-0.5">
+    <text x="0" y="34">ALPHA</text>
+    <text x="104" y="34" font-size="28" fill="#2D5BFF" transform="rotate(-3.5 112 32)">V</text>
+    <text x="126" y="34">ECTOR</text>
+  </g>
+</svg>

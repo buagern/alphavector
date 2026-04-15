@@ -875,6 +875,65 @@ window.VARIANTS = {
           dark: "logo-brand-orbit-ring-dark.svg"
         }
       ]
+    },
+    {
+      name: "★ FINAL — Brand Designer Brief Execution ✦ NEW",
+      variants: [
+        {
+          id: "A",
+          name: "A — Faceted Alpha (priority)",
+          description: "Bold A as two triangular planes meeting at a diagonal facet — the facet IS the crossbar. Vector Blue (#2D5BFF) + Obsidian (#0B0D12). Delivers Precision + Foundation + Momentum.",
+          light: "logo-final-A-faceted.svg",
+          dark: "logo-final-A-faceted-dark.svg"
+        },
+        {
+          id: "A-mono",
+          name: "A — Faceted Alpha (mono)",
+          description: "Monochrome test — must read as A in pure Obsidian on white.",
+          light: "logo-final-A-faceted-mono.svg"
+        },
+        {
+          id: "B",
+          name: "B — Vector Rhombus (priority)",
+          description: "Tight rhombus bisected by a diagonal line that overshoots top-right — vector arrowhead implied, not drawn. Most product-agnostic.",
+          light: "logo-final-B-rhombus.svg",
+          dark: "logo-final-B-rhombus-dark.svg"
+        },
+        {
+          id: "B-mono",
+          name: "B — Vector Rhombus (mono)",
+          description: "Monochrome test — Obsidian rhombus, white diagonal overshoot.",
+          light: "logo-final-B-rhombus-mono.svg"
+        },
+        {
+          id: "C",
+          name: "C — AV Interlock",
+          description: "A and mirror V share a single vertical facet edge. Continuous six-point silhouette. Reinforces Alpha Vector in the mark itself.",
+          light: "logo-final-C-interlock.svg",
+          dark: "logo-final-C-interlock-dark.svg"
+        },
+        {
+          id: "D",
+          name: "D — Alpha Cut (hedge)",
+          description: "Bold geometric Greek α sliced by a surgical diagonal. Vector Blue sliver reveals through the cut. Cultural literacy for engineering audience.",
+          light: "logo-final-D-alpha-cut-v2.svg",
+          dark: "logo-final-D-alpha-cut-dark.svg"
+        },
+        {
+          id: "E",
+          name: "E — Wordmark Lock (optional)",
+          description: "ALPHA VECTOR in General Sans Bold, uppercase, tight tracking. Only the V is tilted -3.5° and set in Vector Blue — direction encoded in type.",
+          light: "logo-final-E-wordmark.svg",
+          dark: "logo-final-E-wordmark-dark.svg"
+        },
+        {
+          id: "F",
+          name: "F — Origin Point (optional)",
+          description: "Rhombus outline bounding a Vector Blue dot + 32° diagonal line. Dot = origin/alpha, line = vector, rhombus = bounded system. Fully abstract.",
+          light: "logo-final-F-origin.svg",
+          dark: "logo-final-F-origin-dark.svg"
+        }
+      ]
     }
   ]
 };

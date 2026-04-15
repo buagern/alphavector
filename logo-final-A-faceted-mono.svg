@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Monochrome test — must read as A in pure Obsidian on white -->
+  <path d="M 32 6 L 4 58 L 18 58 L 32 30 L 44 36 Z" fill="#0B0D12"/>
+  <path d="M 32 6 L 44 36 L 32 30 L 46 58 L 60 58 Z" fill="#0B0D12" opacity="0.55"/>
+</svg>
