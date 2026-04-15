@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 80" fill="none">
+  <!-- Direction M — ALPHAVECTOR mono-ligature wordmark -->
+  <!-- Custom letterform, cap height 36, 23° Vector Cuts at every terminal. -->
+  <!-- R of ALPHA and V of VECTOR fuse via a shared 23° facet. -->
+  <!-- Vector Bullet between them (the system's smallest expression). -->
+
+  <g fill="#0B0D12">
+    <!-- A (advance 40, center ~20) — apex cut, feet cut, crossbar cut -->
+    <path d="
+      M 18 22
+      L 24 20
+      L 38 64
+      L 32 66
+      L 29 56
+      L 13 56
+      L 10 66
+      L 4 64
+      Z
+      M 15 50
+      L 21 34
+      L 27 50
+      Z
+    " fill-rule="evenodd"/>
+
+    <!-- L -->
+    <path d="
+      M 46 22
+      L 52 20
+      L 52 58
+      L 66 58
+      L 66 64
+      L 46 64
+      Z
+    "/>
+
+    <!-- P -->
+    <path d="
+      M 74 22
+      L 80 20
+      L 80 66
+      L 74 66
+      Z
+      M 80 20
+      L 92 20
+      Q 104 20 104 34
+      Q 104 48 92 48
+      L 80 48
+      L 80 42
+      L 92 42
+      Q 98 42 98 34
+      Q 98 26 92 26
+      L 80 26
+      Z
+    " fill-rule="evenodd"/>
+
+    <!-- H -->
+    <path d="
+      M 114 22
+      L 120 20
+      L 120 40
+      L 140 40
+      L 140 22
+      L 146 20
+      L 146 64
+      L 140 66
+      L 140 46
+      L 120 46
+      L 120 64
+      L 114 66
+      Z
+    "/>
+
+    <!-- A again -->
+    <path d="
+      M 168 22
+      L 174 20
+      L 188 64
+      L 182 66
+      L 179 56
+      L 163 56
+      L 160 66
+      L 154 64
+      Z
+      M 165 50
+      L 171 34
+      L 177 50
+      Z
+    " fill-rule="evenodd"/>
+
+    <!-- R of ALPHA (fused with V via shared 23° facet at right terminal) -->
+    <path d="
+      M 196 22
+      L 202 20
+      L 202 66
+      L 196 66
+      Z
+      M 202 20
+      L 214 20
+      Q 226 20 226 32
+      Q 226 42 218 44
+      L 228 64
+      L 221 66
+      L 211 46
+      L 202 46
+      L 202 40
+      L 214 40
+      Q 220 40 220 32
+      Q 220 26 214 26
+      L 202 26
+      Z
+    " fill-rule="evenodd"/>
+  </g>
+
+  <!-- Vector Bullet (Vector Blue) — 23° parallelogram, midline y=42 -->
+  <path d="M 240 39 L 252 37 L 254 43 L 242 45 Z" fill="#2D5BFF"/>
+
+  <g fill="#0B0D12">
+    <!-- V (shares 23° facet visually with R's leg via the bullet bridge) -->
+    <path d="
+      M 266 22
+      L 272 20
+      L 284 56
+      L 296 20
+      L 302 22
+      L 288 66
+      L 280 66
+      Z
+    "/>
+
+    <!-- E -->
+    <path d="
+      M 310 22
+      L 316 20
+      L 316 64
+      L 340 64
+      L 340 58
+      L 322 58
+      L 322 46
+      L 336 46
+      L 336 40
+      L 322 40
+      L 322 26
+      L 340 26
+      L 340 20
+      L 310 20
+      Z
+    " fill-rule="evenodd"/>
+
+    <!-- C -->
+    <path d="
+      M 370 20
+      Q 348 20 348 43
+      Q 348 66 370 66
+      Q 380 66 384 58
+      L 378 55
+      Q 376 60 370 60
+      Q 354 60 354 43
+      Q 354 26 370 26
+      Q 376 26 378 31
+      L 384 28
+      Q 380 20 370 20
+      Z
+    "/>
+
+    <!-- T -->
+    <path d="
+      M 390 22
+      L 422 20
+      L 422 26
+      L 410 26
+      L 410 64
+      L 404 66
+      L 404 26
+      L 390 26
+      Z
+    "/>
+
+    <!-- O — octagonal, 23° corner cuts -->
+    <path fill-rule="evenodd" d="
+      M 436 28
+      L 444 20
+      L 460 20
+      L 468 28
+      L 468 56
+      L 460 64
+      L 444 64
+      L 436 56
+      Z
+      M 442 32
+      L 442 52
+      L 446 58
+      L 458 58
+      L 462 52
+      L 462 32
+      L 458 26
+      L 446 26
+      Z
+    "/>
+
+    <!-- R final -->
+    <path d="
+      M 472 22
+      L 478 20
+      L 478 66
+      L 472 66
+      Z
+      M 478 20
+      L 490 20
+      Q 502 20 502 32
+      Q 502 42 494 44
+      L 504 64
+      L 497 66
+      L 487 46
+      L 478 46
+      L 478 40
+      L 490 40
+      Q 496 40 496 32
+      Q 496 26 490 26
+      L 478 26
+      Z
+    " fill-rule="evenodd"/>
+  </g>
+</svg>

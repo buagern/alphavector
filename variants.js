@@ -934,6 +934,79 @@ window.VARIANTS = {
           dark: "logo-final-F-origin-dark.svg"
         }
       ]
+    },
+    {
+      name: "★ CUSTOM TYPE — Vector Cut 23° ✦ NEW",
+      variants: [
+        {
+          id: "TYPE",
+          name: "Letter Specimen A L P H A V E C T O R ·",
+          description: "All 10 custom letters + Vector Bullet (the system's smallest expression). Shows the 23° Vector Cut signature across every terminal. Cap height 40, stem 8, one constant stroke.",
+          light: "logo-type-specimen.svg"
+        },
+        {
+          id: "BULLET",
+          name: "Vector Bullet",
+          description: "The 23° parallelogram glyph that joins ALPHA · VECTOR. Standalone = smallest app dock icon, punctuation, social avatar. This IS the Vector Cut condensed.",
+          light: "logo-type-bullet.svg",
+          dark: "logo-type-bullet-dark.svg"
+        },
+        {
+          id: "G",
+          name: "G — Cut Alpha",
+          description: "The typeface's own A used as the mark — not a drawn A, the actual system A. Apex / feet / crossbar ends all show the 23° Vector Cut. Counter triangle in Vector Blue. Mark and wordmark are provably the same object.",
+          light: "logo-type-G-cut-alpha.svg",
+          dark: "logo-type-G-cut-alpha-dark.svg"
+        },
+        {
+          id: "G-mono",
+          name: "G — Cut Alpha (mono)",
+          description: "Monochrome test — pure Obsidian on white. Apex cut visible at 16px.",
+          light: "logo-type-G-cut-alpha-mono.svg"
+        },
+        {
+          id: "H-type",
+          name: "H — Overcut Alpha (apex diacritic)",
+          description: "The Cut Alpha with a detached 23° parallelogram floating 3u above the apex — an orthographic diacritic marking 'first / leading'. No other infra brand uses a diacritic on a Latin capital.",
+          light: "logo-type-H-overcut.svg",
+          dark: "logo-type-H-overcut-dark.svg"
+        },
+        {
+          id: "I",
+          name: "I — AV Orthographic Ligature",
+          description: "A and V share their entire centre diagonal — ONE load-bearing stroke, not two overlapping. Vector Blue accent on the shared spine. An orthographic event, not a monogram.",
+          light: "logo-type-I-av-ligature.svg",
+          dark: "logo-type-I-av-ligature-dark.svg"
+        },
+        {
+          id: "J",
+          name: "J — Baseline-Inverted V",
+          description: "V hangs from the cap line, apex pointing DOWN at the wordmark below. A literal vector pointing at the product. Breaks orthographic expectation just enough to be unforgettable.",
+          light: "logo-type-J-inverted-V.svg",
+          dark: "logo-type-J-inverted-V-dark.svg"
+        },
+        {
+          id: "K",
+          name: "K — Stencil Alpha",
+          description: "The Cut Alpha with bridge gaps at the apex — the apex plane floats, connected only via the crossbar. Built, not poured. Industrial stencil logic (USPS/NASA territory, not crypto).",
+          light: "logo-type-K-stencil.svg",
+          dark: "logo-type-K-stencil-dark.svg"
+        },
+        {
+          id: "L-type",
+          name: "L — Vector Column",
+          description: "Stack of cut / stem / point — the anatomy of a single letter stroke, disassembled and shown in pieces. No letter at all; it's the GRAMMAR of the letterform. A diagrammatic logo for a company whose name is a diagram.",
+          light: "logo-type-L-vector-column.svg",
+          dark: "logo-type-L-vector-column-dark.svg"
+        },
+        {
+          id: "M",
+          name: "M — ALPHA·VECTOR Wordmark (mono-ligature)",
+          description: "Full wordmark in custom letterform, bound by the Vector Bullet (23° parallelogram). The typeface IS the brand. Wordmark + standalone mark in one lockup.",
+          light: "logo-type-M-wordmark.svg",
+          dark: "logo-type-M-wordmark-dark.svg"
+        }
+      ]
     }
   ]
 };

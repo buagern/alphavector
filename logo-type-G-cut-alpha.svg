@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Direction G — Cut Alpha -->
+  <!-- The typeface A used as the mark. Every terminal = 23° Vector Cut. -->
+  <!-- Bold A: apex cut, feet cut, crossbar ends cut. Counter triangle filled Vector Blue. -->
+
+  <!-- A outer shape (Obsidian), with 23° cuts at: apex, both feet, both crossbar ends -->
+  <path fill-rule="evenodd" d="
+    M 29 14
+    L 35 11.5
+    L 52 53
+    L 46 55
+    L 41 43
+    L 23 43
+    L 18 55
+    L 12 53
+    Z
+    M 25 37
+    L 30 21
+    L 39 37
+    Z
+  " fill="#0B0D12"/>
+
+  <!-- Counter triangle filled Vector Blue (below crossbar) -->
+  <path d="M 25 47 L 32 31 L 39 47 Z" fill="#2D5BFF" opacity="0"/>
+  <!-- Actually the counter is above crossbar; fill the inner triangle with Vector Blue -->
+  <path d="M 25 37 L 30 21 L 39 37 Z" fill="#2D5BFF"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Direction L — Vector Column -->
+  <!-- Stack: 23° parallelogram / vertical stem (cut top + bottom) / inverted V (apex up) -->
+  <!-- The anatomy of a single stroke, disassembled. -->
+
+  <!-- 1. Top: 23° parallelogram (the "cut") — Vector Blue -->
+  <path d="M 27 6 L 37 4 L 39 9 L 29 11 Z" fill="#2D5BFF"/>
+
+  <!-- 2. Middle: vertical stem with 23° top + bottom cuts — Obsidian -->
+  <path d="M 29 16 L 35 14 L 35 36 L 29 38 Z" fill="#0B0D12"/>
+
+  <!-- 3. Bottom: inverted V apex pointing up — Obsidian -->
+  <path d="M 32 42 L 50 60 L 44 60 L 32 48 L 20 60 L 14 60 Z" fill="#0B0D12"/>
+
+  <!-- Small apex cut on the inverted V terminals -->
+  <!-- (already 23° by construction on the baseline cuts) -->
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Direction I — AV Orthographic Ligature -->
+  <!-- A and V share their entire centre diagonal — one single load-bearing stroke. -->
+  <!-- Silhouette = asymmetric four-point star. Both outer terminals have 23° cuts. -->
+
+  <!-- Obsidian main body (A left leg + shared centre stroke + V right leg) -->
+  <path d="
+    M 3 14
+    L 9 11.5
+    L 35 55
+    L 29 57
+    Z
+    M 29 57
+    L 35 55
+    L 61 11.5
+    L 55 14
+    Z
+  " fill="#0B0D12"/>
+
+  <!-- Shared centre diagonal (the load-bearing stroke itself — full length) -->
+  <path d="M 9 11.5 L 35 55 L 29 57 L 3 14 Z" fill="#0B0D12"/>
+
+  <!-- A's crossbar -->
+  <rect x="11" y="32" width="16" height="5" fill="#0B0D12" transform="skewY(-8)"/>
+
+  <!-- Accent spark on shared diagonal (Vector Blue) -->
+  <path d="M 16 22 L 22 19.5 L 24 22.5 L 18 25 Z" fill="#2D5BFF"/>
+</svg>

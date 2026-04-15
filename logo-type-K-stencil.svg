@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Direction K — Stencil Alpha -->
+  <!-- A with 5u stencil bridge cut at apex — apex plane floats, connected via crossbar only. -->
+  <!-- Every terminal + every stencil cut = 23°. -->
+
+  <!-- Floating apex plane -->
+  <path d="M 29 14 L 35 11.5 L 37 16 L 27 16 Z" fill="#0B0D12"/>
+
+  <!-- Left diagonal stroke (bottom half, stencil gap above it) -->
+  <path d="
+    M 24 22
+    L 30 20
+    L 23 43
+    L 18 55
+    L 12 53
+    Z
+  " fill="#0B0D12"/>
+
+  <!-- Right diagonal stroke (bottom half) -->
+  <path d="
+    M 34 20
+    L 40 22
+    L 52 53
+    L 46 55
+    L 41 43
+    Z
+  " fill="#0B0D12"/>
+
+  <!-- Crossbar — the one connection (Vector Blue to emphasise bridge) -->
+  <path d="M 23 43 L 41 43 L 40 47 L 24 47 Z" fill="#2D5BFF"/>
+</svg>
